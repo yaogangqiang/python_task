@@ -19,6 +19,6 @@ def c(mylist, number):
 
 if __name__ == "__main__":
     p(range(3), 3)
-    p(range(3), 2)
+    p(range(3), 1)
     c(range(3), 3)
     c(range(3), 2)
