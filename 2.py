@@ -1,3 +1,5 @@
+# coding=utf-8
+# Pandigital products
 def is_pandigital(*args):
     num = sorted(''.join(str(arg) for arg in args))
     length = 9
